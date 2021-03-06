@@ -4,4 +4,6 @@
 * [os211 repository](https://github.com/abdurrohmanjafar/os211/)
 * [My Log](https://abdurrohmanjafar.github.io/os211/TXT/mylog.txt/)
 ### Weekly Projects
-1. [W01](https://abdurrohmanjafar.github.io/os211/w01)
+1. [W01](https://google.com) 
+
+belajar markdown
