@@ -5,5 +5,8 @@
 * [My Log](https://abdurrohmanjafar.github.io/os211/TXT/mylog.txt/)
 ### Weekly Projects
 1. [W01](https://google.com) 
+2. test
+3. test1
+4. test2
 
 belajar markdown
