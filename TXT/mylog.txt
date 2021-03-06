@@ -1,2 +1,3 @@
+permalink: /test/
 tes
 tes
