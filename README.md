@@ -3,5 +3,5 @@
 * [Github Account](https://github.com/abdurrohmanjafar/)
 * [os211 repository](https://github.com/abdurrohmanjafar/os211/)
 * [My Log](https://abdurrohmanjafar.github.io/os211/TXT/mylog.txt/)
-
-1. [belajar os](https://google.com)
+### Weekly Projects
+1. [W01](https://google.com)
