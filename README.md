@@ -1,2 +1,2 @@
 # testos
-1. [belajar os](google.com)
+1. [belajar os](https://google.com)
